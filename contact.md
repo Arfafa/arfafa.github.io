@@ -6,7 +6,7 @@ title: Entre em Contato
 <div id="contact">
   <h1 class="pageTitle">Entre em Contato</h1>
   <div class="contactContent">
-    <p>Dúvidas, comentários ou sugestões? É só mandar um e-mail ou entrar em contato através do <a href="https://t.me/Fafoso">Telegram</a></p>
+    <p>Dúvidas, comentários ou sugestões? É só mandar um e-mail ou entrar em contato através do <a href="https://t.me/Fafoso">Telegram</a>!</p>
 <!--
     <p class="intro">This is an example Contact page. If you want to make changes then do so in the <code>contact.html</code> file.</p>
     <p>The form is provided by <a href="http://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
