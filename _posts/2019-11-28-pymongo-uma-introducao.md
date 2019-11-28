@@ -20,7 +20,7 @@ tags:
 
 ```bash
 $ python -m pip install pymongo
-```{block-size: 150px}
+```
 
 Para baixar uma versão específica:
 
