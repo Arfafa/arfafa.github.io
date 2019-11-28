@@ -3,7 +3,7 @@ layout: post
 title: "PyMongo: Uma Introdução"
 date: 2019-11-28
 image: '/assets/img/'
-description:
+description: Uma breve introdução ao PyMongo
 tags:
  - Python
  - MongoDB
@@ -11,10 +11,10 @@ tags:
 ---
 
 # Índice
-1. [Instalação](#Instalação)
-2. [Tutorial](#Tutorial)
+1. [Instalação](#instalacao)
+2. [Tutorial](#tutorial)
 
-## Instalação
+## <a name="instalacao">Instalação</a>
 
 É recomendado utilizar o pip para instalar o pymongo em qualquer plataforma:
 
@@ -34,7 +34,7 @@ Para atualizar usando o pip:
 $ python -m pip install --upgrade pymongo
 ```
 
-## Tutorial
+## <a name="tutorial">Tutorial</a>
 
 ### Pré-requisitos:
 
