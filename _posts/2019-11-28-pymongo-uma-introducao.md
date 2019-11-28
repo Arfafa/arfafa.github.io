@@ -18,9 +18,9 @@ tags:
 
 É recomendado utilizar o pip para instalar o pymongo em qualquer plataforma:
 
-```bash
+{% highlight bash %}
 $ python -m pip install pymongo
-```
+{% endhighlight %}
 
 Para baixar uma versão específica:
 
